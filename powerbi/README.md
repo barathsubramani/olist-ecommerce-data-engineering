@@ -29,7 +29,7 @@ Key visualizations:
 - Top Sellers by Revenue
 - Top Customers by Spend
 
-![Executive Overview](executive-overview.png)
+![Executive Overview](dashboard-overview.png)
 
 ---
 
